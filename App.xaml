@@ -1,9 +1,5 @@
-﻿<Application x:Class="Liars_Dice.App"
+﻿<NavigationWindow x:Class="Liars_Dice.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Liars_Dice"
-             StartupUri="MainWindow.xaml">
-    <Application.Resources>
-         
-    </Application.Resources>
-</Application>
+             Title="Liars_Dice" Height="350" Width="500">
+</NavigationWindow>

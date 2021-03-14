@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace Liars_Dice
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for PlayerSelection.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class PlayerSelection : Page
     {
-        public MainWindow()
+        public PlayerSelection()
         {
             InitializeComponent();
         }
