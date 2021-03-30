@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="StartButtonTextBrush" Color="AliceBlue"/>
+    <SolidColorBrush x:Key="StartButtonBrush" Color="Gray"/>
+    <SolidColorBrush x:Key="StartButtonBorderBrush" Color="Teal"/>
+    <SolidColorBrush x:Key="ActiveStartButtonBrush" Color="Black"/>
+    <SolidColorBrush x:Key="PressedStartButtonBrush" Color="LightBlue"/>
+    <SolidColorBrush x:Key="DisabledStartButtonBrush" Color="GhostWhite"/>
+
+</ResourceDictionary>

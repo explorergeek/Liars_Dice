@@ -5,11 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Liars_Dice"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" SourceInitialized="Liars_Dice.Home">
+        Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="212,184,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="343,184,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="482,184,0,0" VerticalAlignment="Top" Width="75"/>
-
     </Grid>
 </Window>
